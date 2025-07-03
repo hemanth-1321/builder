@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+playwright
+fastapi[standard]
+pydantic
+BeautifulSoup
+
+
+
+playwright install

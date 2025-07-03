@@ -1,0 +1,755 @@
+[
+  {
+    "tag": "div",
+    "text": "HemanthFull-Stack DeveloperHey, I'mHemanth— a 20-year-old self-taught developer based in India. I'm\n          passionate about coding and love turning ideas into real, working\n          projects. Always curious, always building.I buildwebsites.Here are the tools I work with,ExpressNode.jsNext.jsReactTypeScriptAWSDockerGet in touch→ProjectsMockySSHPhotoGenAiManimator",
+    "attributes": {
+      "class": [
+        "w-full",
+        "flex",
+        "flex-col",
+        "items-center",
+        "py-10",
+        "px-4"
+      ]
+    },
+    "html": "<div class=\"w-full flex flex-col items-center py-10 px-4\">\n<div class=\"p-6 rounded-xl shadow-lg w-full max-w-2xl flex flex-col gap-6 items-start\">\n<div class=\"w-full flex justify-start ml-[-20]\">\n<div class=\"flex items-center justify-between w-full p-4\">\n<div class=\"flex items-center gap-4\">\n<span class=\"relative flex size-8 shrink-0 overflow-hidden rounded-full w-20 h-20\" data-slot=\"avatar\"><img class=\"aspect-square size-full\" data-slot=\"avatar-image\" src=\"https://avatars.githubusercontent.com/u/116090792?s=400&amp;u=d5629197c507b723c29e0a1b24aa378a1923f6e8&amp;v=4\"/></span>\n<div>\n<p class=\"text-lg font-semibold text-gray-800 dark:text-white\">\n                  Hemanth\n                </p>\n<p class=\"text-sm text-gray-500 dark:text-gray-400\">\n                  Full-Stack Developer\n                </p>\n</div>\n</div>\n<div class=\"flex items-center cursor-pointer transition-transform duration-500\">\n<svg aria-hidden=\"true\" class=\"lucide lucide-sun h-6 w-6 text-yellow-500 transition-all\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"4\"></circle>\n<path d=\"M12 2v2\"></path>\n<path d=\"M12 20v2\"></path>\n<path d=\"m4.93 4.93 1.41 1.41\"></path>\n<path d=\"m17.66 17.66 1.41 1.41\"></path>\n<path d=\"M2 12h2\"></path>\n<path d=\"M20 12h2\"></path>\n<path d=\"m6.34 17.66-1.41 1.41\"></path>\n<path d=\"m19.07 4.93-1.41 1.41\"></path>\n</svg>\n</div>\n</div>\n</div>\n<p class=\"text-muted-foreground text-xl text-left\">\n          Hey, I'm<!-- -->\n<span class=\"font-bold dark:text-white animate-pulse\">Hemanth</span>\n<!-- -->— a 20-year-old self-taught developer based in India. I'm\n          passionate about coding and love turning ideas into real, working\n          projects. Always curious, always building.\n        </p>\n<h1 class=\"text-xl font-bold text-muted-foreground text-left\">\n          I build\n          <span class=\"ml-2\"><div class=\"text-transition undefined\" style=\"\n                white-space: nowrap;\n                display: inline-flex;\n                height: 28px;\n                width: 78.6074px;\n              \">\n<div style=\"opacity: 1; transform: translateY(0%)\">website</div>\n</div>\n            s.</span>\n</h1>\n<section class=\"rounded-xl\">\n<h2 class=\"scroll-m-20 border-t pt-4 text-l text-wrap font-semibold tracking-tight first:mt-0 mb-5\">\n            Here are the tools I work with,\n          </h2>\n<div class=\"flex flex-wrap gap-3\">\n<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Express logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg\" style=\"color: transparent\" width=\"16\"/><span>Express</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Node.js logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Node.js</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Next.js logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Next.js</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"React logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg\" style=\"color: transparent\" width=\"16\"/><span>React</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"TypeScript logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg\" style=\"color: transparent\" width=\"16\"/><span>TypeScript</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"AWS logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg\" style=\"color: transparent\" width=\"16\"/><span>AWS</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Docker logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Docker</span></span>\n</div>\n</section>\n<div class=\"flex flex-col items-center justify-between space-x-10\">\n<div class=\"flex gap-4\">\n<p class=\"text-xl font-semibold flex items-center gap-2\">\n<span>Get in touch</span><span class=\"inline-block animate-bounce\">→</span>\n</p>\n<div class=\"mb-10\">\n<div class=\"relative\">\n<div class=\"supports-backdrop-blur:bg-white/10 supports-backdrop-blur:dark:bg-black/10 mx-auto mt-8 flex h-[58px] w-max justify-center gap-2 rounded-2xl border p-2 backdrop-blur-md items-center\">\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://x.com/Hemanth_1321\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M22.46 6c-.77.35-1.6.58-2.46.69a4.3 4.3 0 0 0 1.89-2.37 8.58 8.58 0 0 1-2.73 1.05A4.27 4.27 0 0 0 16.1 4c-2.38 0-4.3 1.94-4.3 4.34 0 .34.04.68.1 1A12.1 12.1 0 0 1 3 5.1a4.35 4.35 0 0 0 1.33 5.78 4.26 4.26 0 0 1-1.95-.54v.06c0 2.03 1.44 3.72 3.34 4.1a4.28 4.28 0 0 1-1.94.07 4.29 4.29 0 0 0 4 2.97A8.58 8.58 0 0 1 2 19.53 12.1 12.1 0 0 0 8.29 21c7.55 0 11.68-6.34 11.68-11.83 0-.18 0-.36-.01-.53A8.38 8.38 0 0 0 22.46 6Z\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://www.linkedin.com/in/hemanth-kumar-m-0496ba247\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.98 3.5a2.49 2.49 0 1 1 0 4.98 2.49 2.49 0 0 1 0-4.98ZM3 8.75h3.96v12.5H3V8.75ZM9.25 8.75h3.8v1.71h.06c.53-1 1.82-2.06 3.75-2.06 4 0 4.74 2.63 4.74 6.04v6.81h-3.96v-6.03c0-1.44-.03-3.3-2.01-3.3-2.01 0-2.32 1.57-2.32 3.19v6.14h-3.96V8.75Z\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://github.com/hemanth-1321\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" viewbox=\"0 0 438.549 438.549\">\n<path d=\"M409.132 114.573c-19.608-33.596-46.205-60.194-79.798-79.8-33.598-19.607-70.277-29.408-110.063-29.408-39.781 0-76.472 9.804-110.063 29.408-33.596 19.605-60.192 46.204-79.8 79.8C9.803 148.168 0 184.854 0 224.63c0 47.78 13.94 90.745 41.827 128.906 27.884 38.164 63.906 64.572 108.063 79.227 5.14.954 8.945.283 11.419-1.996 2.475-2.282 3.711-5.14 3.711-8.562 0-.571-.049-5.708-.144-15.417a2549.81 2549.81 0 01-.144-25.406l-6.567 1.136c-4.187.767-9.469 1.092-15.846 1-6.374-.089-12.991-.757-19.842-1.999-6.854-1.231-13.229-4.086-19.13-8.559-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-.951-2.568-2.098-3.711-3.429-1.142-1.331-1.997-2.663-2.568-3.997-.572-1.335-.098-2.43 1.427-3.289 1.525-.859 4.281-1.276 8.28-1.276l5.708.853c3.807.763 8.516 3.042 14.133 6.851 5.614 3.806 10.229 8.754 13.846 14.842 4.38 7.806 9.657 13.754 15.846 17.847 6.184 4.093 12.419 6.136 18.699 6.136 6.28 0 11.704-.476 16.274-1.423 4.565-.952 8.848-2.383 12.847-4.285 1.713-12.758 6.377-22.559 13.988-29.41-10.848-1.14-20.601-2.857-29.264-5.14-8.658-2.286-17.605-5.996-26.835-11.14-9.235-5.137-16.896-11.516-22.985-19.126-6.09-7.614-11.088-17.61-14.987-29.979-3.901-12.374-5.852-26.648-5.852-42.826 0-23.035 7.52-42.637 22.557-58.817-7.044-17.318-6.379-36.732 1.997-58.24 5.52-1.715 13.706-.428 24.554 3.853 10.85 4.283 18.794 7.952 23.84 10.994 5.046 3.041 9.089 5.618 12.135 7.708 17.705-4.947 35.976-7.421 54.818-7.421s37.117 2.474 54.823 7.421l10.849-6.849c7.419-4.57 16.18-8.758 26.262-12.565 10.088-3.805 17.802-4.853 23.134-3.138 8.562 21.509 9.325 40.922 2.279 58.24 15.036 16.18 22.559 35.787 22.559 58.817 0 16.178-1.958 30.497-5.853 42.966-3.9 12.471-8.941 22.457-15.125 29.979-6.191 7.521-13.901 13.85-23.131 18.986-9.232 5.14-18.182 8.85-26.84 11.136-8.662 2.286-18.415 4.004-29.263 5.146 9.894 8.562 14.842 22.077 14.842 40.539v60.237c0 3.422 1.19 6.279 3.572 8.562 2.379 2.279 6.136 2.95 11.276 1.995 44.163-14.653 80.185-41.062 108.068-79.226 27.88-38.161 41.825-81.126 41.825-128.906-.01-39.771-9.818-76.454-29.414-110.049z\" fill=\"currentColor\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"mailto:hemanth02135@gmail.com\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5A1.5 1.5 0 0 1 3 3h18a1.5 1.5 0 0 1 1.5 1.5v15A1.5 1.5 0 0 1 21 21H3a1.5 1.5 0 0 1-1.5-1.5v-15Zm1.93.75 8.57 6.112a.75.75 0 0 0 .9 0l8.57-6.112H3.43ZM21 6.94l-8.35 5.955a2.25 2.25 0 0 1-2.3 0L2 6.94v12.56h19V6.94Z\"></path></svg></a>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"w-full\">\n<h3 class=\"text-2xl font-semibold tracking-tight mb-6\">Projects</h3>\n<div class=\"flex flex-col divide-y divide-border w-full\">\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Mocky</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">SSH</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">PhotoGenAi</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Manimator</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "tag": "div",
+    "text": "HemanthFull-Stack DeveloperHey, I'mHemanth— a 20-year-old self-taught developer based in India. I'm\n          passionate about coding and love turning ideas into real, working\n          projects. Always curious, always building.I buildwebsites.Here are the tools I work with,ExpressNode.jsNext.jsReactTypeScriptAWSDockerGet in touch→ProjectsMockySSHPhotoGenAiManimator",
+    "attributes": {
+      "class": [
+        "p-6",
+        "rounded-xl",
+        "shadow-lg",
+        "w-full",
+        "max-w-2xl",
+        "flex",
+        "flex-col",
+        "gap-6",
+        "items-start"
+      ]
+    },
+    "html": "<div class=\"p-6 rounded-xl shadow-lg w-full max-w-2xl flex flex-col gap-6 items-start\">\n<div class=\"w-full flex justify-start ml-[-20]\">\n<div class=\"flex items-center justify-between w-full p-4\">\n<div class=\"flex items-center gap-4\">\n<span class=\"relative flex size-8 shrink-0 overflow-hidden rounded-full w-20 h-20\" data-slot=\"avatar\"><img class=\"aspect-square size-full\" data-slot=\"avatar-image\" src=\"https://avatars.githubusercontent.com/u/116090792?s=400&amp;u=d5629197c507b723c29e0a1b24aa378a1923f6e8&amp;v=4\"/></span>\n<div>\n<p class=\"text-lg font-semibold text-gray-800 dark:text-white\">\n                  Hemanth\n                </p>\n<p class=\"text-sm text-gray-500 dark:text-gray-400\">\n                  Full-Stack Developer\n                </p>\n</div>\n</div>\n<div class=\"flex items-center cursor-pointer transition-transform duration-500\">\n<svg aria-hidden=\"true\" class=\"lucide lucide-sun h-6 w-6 text-yellow-500 transition-all\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"4\"></circle>\n<path d=\"M12 2v2\"></path>\n<path d=\"M12 20v2\"></path>\n<path d=\"m4.93 4.93 1.41 1.41\"></path>\n<path d=\"m17.66 17.66 1.41 1.41\"></path>\n<path d=\"M2 12h2\"></path>\n<path d=\"M20 12h2\"></path>\n<path d=\"m6.34 17.66-1.41 1.41\"></path>\n<path d=\"m19.07 4.93-1.41 1.41\"></path>\n</svg>\n</div>\n</div>\n</div>\n<p class=\"text-muted-foreground text-xl text-left\">\n          Hey, I'm<!-- -->\n<span class=\"font-bold dark:text-white animate-pulse\">Hemanth</span>\n<!-- -->— a 20-year-old self-taught developer based in India. I'm\n          passionate about coding and love turning ideas into real, working\n          projects. Always curious, always building.\n        </p>\n<h1 class=\"text-xl font-bold text-muted-foreground text-left\">\n          I build\n          <span class=\"ml-2\"><div class=\"text-transition undefined\" style=\"\n                white-space: nowrap;\n                display: inline-flex;\n                height: 28px;\n                width: 78.6074px;\n              \">\n<div style=\"opacity: 1; transform: translateY(0%)\">website</div>\n</div>\n            s.</span>\n</h1>\n<section class=\"rounded-xl\">\n<h2 class=\"scroll-m-20 border-t pt-4 text-l text-wrap font-semibold tracking-tight first:mt-0 mb-5\">\n            Here are the tools I work with,\n          </h2>\n<div class=\"flex flex-wrap gap-3\">\n<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Express logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg\" style=\"color: transparent\" width=\"16\"/><span>Express</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Node.js logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Node.js</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Next.js logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Next.js</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"React logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg\" style=\"color: transparent\" width=\"16\"/><span>React</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"TypeScript logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg\" style=\"color: transparent\" width=\"16\"/><span>TypeScript</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"AWS logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg\" style=\"color: transparent\" width=\"16\"/><span>AWS</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Docker logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Docker</span></span>\n</div>\n</section>\n<div class=\"flex flex-col items-center justify-between space-x-10\">\n<div class=\"flex gap-4\">\n<p class=\"text-xl font-semibold flex items-center gap-2\">\n<span>Get in touch</span><span class=\"inline-block animate-bounce\">→</span>\n</p>\n<div class=\"mb-10\">\n<div class=\"relative\">\n<div class=\"supports-backdrop-blur:bg-white/10 supports-backdrop-blur:dark:bg-black/10 mx-auto mt-8 flex h-[58px] w-max justify-center gap-2 rounded-2xl border p-2 backdrop-blur-md items-center\">\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://x.com/Hemanth_1321\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M22.46 6c-.77.35-1.6.58-2.46.69a4.3 4.3 0 0 0 1.89-2.37 8.58 8.58 0 0 1-2.73 1.05A4.27 4.27 0 0 0 16.1 4c-2.38 0-4.3 1.94-4.3 4.34 0 .34.04.68.1 1A12.1 12.1 0 0 1 3 5.1a4.35 4.35 0 0 0 1.33 5.78 4.26 4.26 0 0 1-1.95-.54v.06c0 2.03 1.44 3.72 3.34 4.1a4.28 4.28 0 0 1-1.94.07 4.29 4.29 0 0 0 4 2.97A8.58 8.58 0 0 1 2 19.53 12.1 12.1 0 0 0 8.29 21c7.55 0 11.68-6.34 11.68-11.83 0-.18 0-.36-.01-.53A8.38 8.38 0 0 0 22.46 6Z\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://www.linkedin.com/in/hemanth-kumar-m-0496ba247\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.98 3.5a2.49 2.49 0 1 1 0 4.98 2.49 2.49 0 0 1 0-4.98ZM3 8.75h3.96v12.5H3V8.75ZM9.25 8.75h3.8v1.71h.06c.53-1 1.82-2.06 3.75-2.06 4 0 4.74 2.63 4.74 6.04v6.81h-3.96v-6.03c0-1.44-.03-3.3-2.01-3.3-2.01 0-2.32 1.57-2.32 3.19v6.14h-3.96V8.75Z\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://github.com/hemanth-1321\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" viewbox=\"0 0 438.549 438.549\">\n<path d=\"M409.132 114.573c-19.608-33.596-46.205-60.194-79.798-79.8-33.598-19.607-70.277-29.408-110.063-29.408-39.781 0-76.472 9.804-110.063 29.408-33.596 19.605-60.192 46.204-79.8 79.8C9.803 148.168 0 184.854 0 224.63c0 47.78 13.94 90.745 41.827 128.906 27.884 38.164 63.906 64.572 108.063 79.227 5.14.954 8.945.283 11.419-1.996 2.475-2.282 3.711-5.14 3.711-8.562 0-.571-.049-5.708-.144-15.417a2549.81 2549.81 0 01-.144-25.406l-6.567 1.136c-4.187.767-9.469 1.092-15.846 1-6.374-.089-12.991-.757-19.842-1.999-6.854-1.231-13.229-4.086-19.13-8.559-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-.951-2.568-2.098-3.711-3.429-1.142-1.331-1.997-2.663-2.568-3.997-.572-1.335-.098-2.43 1.427-3.289 1.525-.859 4.281-1.276 8.28-1.276l5.708.853c3.807.763 8.516 3.042 14.133 6.851 5.614 3.806 10.229 8.754 13.846 14.842 4.38 7.806 9.657 13.754 15.846 17.847 6.184 4.093 12.419 6.136 18.699 6.136 6.28 0 11.704-.476 16.274-1.423 4.565-.952 8.848-2.383 12.847-4.285 1.713-12.758 6.377-22.559 13.988-29.41-10.848-1.14-20.601-2.857-29.264-5.14-8.658-2.286-17.605-5.996-26.835-11.14-9.235-5.137-16.896-11.516-22.985-19.126-6.09-7.614-11.088-17.61-14.987-29.979-3.901-12.374-5.852-26.648-5.852-42.826 0-23.035 7.52-42.637 22.557-58.817-7.044-17.318-6.379-36.732 1.997-58.24 5.52-1.715 13.706-.428 24.554 3.853 10.85 4.283 18.794 7.952 23.84 10.994 5.046 3.041 9.089 5.618 12.135 7.708 17.705-4.947 35.976-7.421 54.818-7.421s37.117 2.474 54.823 7.421l10.849-6.849c7.419-4.57 16.18-8.758 26.262-12.565 10.088-3.805 17.802-4.853 23.134-3.138 8.562 21.509 9.325 40.922 2.279 58.24 15.036 16.18 22.559 35.787 22.559 58.817 0 16.178-1.958 30.497-5.853 42.966-3.9 12.471-8.941 22.457-15.125 29.979-6.191 7.521-13.901 13.85-23.131 18.986-9.232 5.14-18.182 8.85-26.84 11.136-8.662 2.286-18.415 4.004-29.263 5.146 9.894 8.562 14.842 22.077 14.842 40.539v60.237c0 3.422 1.19 6.279 3.572 8.562 2.379 2.279 6.136 2.95 11.276 1.995 44.163-14.653 80.185-41.062 108.068-79.226 27.88-38.161 41.825-81.126 41.825-128.906-.01-39.771-9.818-76.454-29.414-110.049z\" fill=\"currentColor\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"mailto:hemanth02135@gmail.com\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5A1.5 1.5 0 0 1 3 3h18a1.5 1.5 0 0 1 1.5 1.5v15A1.5 1.5 0 0 1 21 21H3a1.5 1.5 0 0 1-1.5-1.5v-15Zm1.93.75 8.57 6.112a.75.75 0 0 0 .9 0l8.57-6.112H3.43ZM21 6.94l-8.35 5.955a2.25 2.25 0 0 1-2.3 0L2 6.94v12.56h19V6.94Z\"></path></svg></a>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"w-full\">\n<h3 class=\"text-2xl font-semibold tracking-tight mb-6\">Projects</h3>\n<div class=\"flex flex-col divide-y divide-border w-full\">\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Mocky</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">SSH</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">PhotoGenAi</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Manimator</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "tag": "div",
+    "text": "HemanthFull-Stack Developer",
+    "attributes": {
+      "class": [
+        "w-full",
+        "flex",
+        "justify-start",
+        "ml-[-20]"
+      ]
+    },
+    "html": "<div class=\"w-full flex justify-start ml-[-20]\">\n<div class=\"flex items-center justify-between w-full p-4\">\n<div class=\"flex items-center gap-4\">\n<span class=\"relative flex size-8 shrink-0 overflow-hidden rounded-full w-20 h-20\" data-slot=\"avatar\"><img class=\"aspect-square size-full\" data-slot=\"avatar-image\" src=\"https://avatars.githubusercontent.com/u/116090792?s=400&amp;u=d5629197c507b723c29e0a1b24aa378a1923f6e8&amp;v=4\"/></span>\n<div>\n<p class=\"text-lg font-semibold text-gray-800 dark:text-white\">\n                  Hemanth\n                </p>\n<p class=\"text-sm text-gray-500 dark:text-gray-400\">\n                  Full-Stack Developer\n                </p>\n</div>\n</div>\n<div class=\"flex items-center cursor-pointer transition-transform duration-500\">\n<svg aria-hidden=\"true\" class=\"lucide lucide-sun h-6 w-6 text-yellow-500 transition-all\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"4\"></circle>\n<path d=\"M12 2v2\"></path>\n<path d=\"M12 20v2\"></path>\n<path d=\"m4.93 4.93 1.41 1.41\"></path>\n<path d=\"m17.66 17.66 1.41 1.41\"></path>\n<path d=\"M2 12h2\"></path>\n<path d=\"M20 12h2\"></path>\n<path d=\"m6.34 17.66-1.41 1.41\"></path>\n<path d=\"m19.07 4.93-1.41 1.41\"></path>\n</svg>\n</div>\n</div>\n</div>"
+  },
+  {
+    "tag": "div",
+    "text": "HemanthFull-Stack Developer",
+    "attributes": {
+      "class": [
+        "flex",
+        "items-center",
+        "justify-between",
+        "w-full",
+        "p-4"
+      ]
+    },
+    "html": "<div class=\"flex items-center justify-between w-full p-4\">\n<div class=\"flex items-center gap-4\">\n<span class=\"relative flex size-8 shrink-0 overflow-hidden rounded-full w-20 h-20\" data-slot=\"avatar\"><img class=\"aspect-square size-full\" data-slot=\"avatar-image\" src=\"https://avatars.githubusercontent.com/u/116090792?s=400&amp;u=d5629197c507b723c29e0a1b24aa378a1923f6e8&amp;v=4\"/></span>\n<div>\n<p class=\"text-lg font-semibold text-gray-800 dark:text-white\">\n                  Hemanth\n                </p>\n<p class=\"text-sm text-gray-500 dark:text-gray-400\">\n                  Full-Stack Developer\n                </p>\n</div>\n</div>\n<div class=\"flex items-center cursor-pointer transition-transform duration-500\">\n<svg aria-hidden=\"true\" class=\"lucide lucide-sun h-6 w-6 text-yellow-500 transition-all\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"4\"></circle>\n<path d=\"M12 2v2\"></path>\n<path d=\"M12 20v2\"></path>\n<path d=\"m4.93 4.93 1.41 1.41\"></path>\n<path d=\"m17.66 17.66 1.41 1.41\"></path>\n<path d=\"M2 12h2\"></path>\n<path d=\"M20 12h2\"></path>\n<path d=\"m6.34 17.66-1.41 1.41\"></path>\n<path d=\"m19.07 4.93-1.41 1.41\"></path>\n</svg>\n</div>\n</div>"
+  },
+  {
+    "tag": "div",
+    "text": "HemanthFull-Stack Developer",
+    "attributes": {
+      "class": [
+        "flex",
+        "items-center",
+        "gap-4"
+      ]
+    },
+    "html": "<div class=\"flex items-center gap-4\">\n<span class=\"relative flex size-8 shrink-0 overflow-hidden rounded-full w-20 h-20\" data-slot=\"avatar\"><img class=\"aspect-square size-full\" data-slot=\"avatar-image\" src=\"https://avatars.githubusercontent.com/u/116090792?s=400&amp;u=d5629197c507b723c29e0a1b24aa378a1923f6e8&amp;v=4\"/></span>\n<div>\n<p class=\"text-lg font-semibold text-gray-800 dark:text-white\">\n                  Hemanth\n                </p>\n<p class=\"text-sm text-gray-500 dark:text-gray-400\">\n                  Full-Stack Developer\n                </p>\n</div>\n</div>"
+  },
+  {
+    "tag": "div",
+    "text": "HemanthFull-Stack Developer",
+    "attributes": {},
+    "html": "<div>\n<p class=\"text-lg font-semibold text-gray-800 dark:text-white\">\n                  Hemanth\n                </p>\n<p class=\"text-sm text-gray-500 dark:text-gray-400\">\n                  Full-Stack Developer\n                </p>\n</div>"
+  },
+  {
+    "tag": "p",
+    "text": "Hemanth",
+    "attributes": {
+      "class": [
+        "text-lg",
+        "font-semibold",
+        "text-gray-800",
+        "dark:text-white"
+      ]
+    },
+    "html": "<p class=\"text-lg font-semibold text-gray-800 dark:text-white\">\n                  Hemanth\n                </p>"
+  },
+  {
+    "tag": "p",
+    "text": "Full-Stack Developer",
+    "attributes": {
+      "class": [
+        "text-sm",
+        "text-gray-500",
+        "dark:text-gray-400"
+      ]
+    },
+    "html": "<p class=\"text-sm text-gray-500 dark:text-gray-400\">\n                  Full-Stack Developer\n                </p>"
+  },
+  {
+    "tag": "p",
+    "text": "Hey, I'mHemanth— a 20-year-old self-taught developer based in India. I'm\n          passionate about coding and love turning ideas into real, working\n          projects. Always curious, always building.",
+    "attributes": {
+      "class": [
+        "text-muted-foreground",
+        "text-xl",
+        "text-left"
+      ]
+    },
+    "html": "<p class=\"text-muted-foreground text-xl text-left\">\n          Hey, I'm<!-- -->\n<span class=\"font-bold dark:text-white animate-pulse\">Hemanth</span>\n<!-- -->— a 20-year-old self-taught developer based in India. I'm\n          passionate about coding and love turning ideas into real, working\n          projects. Always curious, always building.\n        </p>"
+  },
+  {
+    "tag": "span",
+    "text": "Hemanth",
+    "attributes": {
+      "class": [
+        "font-bold",
+        "dark:text-white",
+        "animate-pulse"
+      ]
+    },
+    "html": "<span class=\"font-bold dark:text-white animate-pulse\">Hemanth</span>"
+  },
+  {
+    "tag": "h1",
+    "text": "I buildwebsites.",
+    "attributes": {
+      "class": [
+        "text-xl",
+        "font-bold",
+        "text-muted-foreground",
+        "text-left"
+      ]
+    },
+    "html": "<h1 class=\"text-xl font-bold text-muted-foreground text-left\">\n          I build\n          <span class=\"ml-2\"><div class=\"text-transition undefined\" style=\"\n                white-space: nowrap;\n                display: inline-flex;\n                height: 28px;\n                width: 78.6074px;\n              \">\n<div style=\"opacity: 1; transform: translateY(0%)\">website</div>\n</div>\n            s.</span>\n</h1>"
+  },
+  {
+    "tag": "span",
+    "text": "websites.",
+    "attributes": {
+      "class": [
+        "ml-2"
+      ]
+    },
+    "html": "<span class=\"ml-2\"><div class=\"text-transition undefined\" style=\"\n                white-space: nowrap;\n                display: inline-flex;\n                height: 28px;\n                width: 78.6074px;\n              \">\n<div style=\"opacity: 1; transform: translateY(0%)\">website</div>\n</div>\n            s.</span>"
+  },
+  {
+    "tag": "div",
+    "text": "website",
+    "attributes": {
+      "class": [
+        "text-transition",
+        "undefined"
+      ],
+      "style": "\n                white-space: nowrap;\n                display: inline-flex;\n                height: 28px;\n                width: 78.6074px;\n              "
+    },
+    "html": "<div class=\"text-transition undefined\" style=\"\n                white-space: nowrap;\n                display: inline-flex;\n                height: 28px;\n                width: 78.6074px;\n              \">\n<div style=\"opacity: 1; transform: translateY(0%)\">website</div>\n</div>"
+  },
+  {
+    "tag": "div",
+    "text": "website",
+    "attributes": {
+      "style": "opacity: 1; transform: translateY(0%)"
+    },
+    "html": "<div style=\"opacity: 1; transform: translateY(0%)\">website</div>"
+  },
+  {
+    "tag": "h2",
+    "text": "Here are the tools I work with,",
+    "attributes": {
+      "class": [
+        "scroll-m-20",
+        "border-t",
+        "pt-4",
+        "text-l",
+        "text-wrap",
+        "font-semibold",
+        "tracking-tight",
+        "first:mt-0",
+        "mb-5"
+      ]
+    },
+    "html": "<h2 class=\"scroll-m-20 border-t pt-4 text-l text-wrap font-semibold tracking-tight first:mt-0 mb-5\">\n            Here are the tools I work with,\n          </h2>"
+  },
+  {
+    "tag": "div",
+    "text": "ExpressNode.jsNext.jsReactTypeScriptAWSDocker",
+    "attributes": {
+      "class": [
+        "flex",
+        "flex-wrap",
+        "gap-3"
+      ]
+    },
+    "html": "<div class=\"flex flex-wrap gap-3\">\n<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Express logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg\" style=\"color: transparent\" width=\"16\"/><span>Express</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Node.js logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Node.js</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Next.js logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Next.js</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"React logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg\" style=\"color: transparent\" width=\"16\"/><span>React</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"TypeScript logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg\" style=\"color: transparent\" width=\"16\"/><span>TypeScript</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"AWS logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg\" style=\"color: transparent\" width=\"16\"/><span>AWS</span></span><span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Docker logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Docker</span></span>\n</div>"
+  },
+  {
+    "tag": "span",
+    "text": "Express",
+    "attributes": {
+      "data-slot": "badge",
+      "class": [
+        "justify-center",
+        "rounded-md",
+        "text-xs",
+        "font-medium",
+        "w-fit",
+        "whitespace-nowrap",
+        "shrink-0",
+        "[&>svg]:size-3",
+        "[&>svg]:pointer-events-none",
+        "focus-visible:border-ring",
+        "focus-visible:ring-ring/50",
+        "focus-visible:ring-[3px]",
+        "aria-invalid:ring-destructive/20",
+        "dark:aria-invalid:ring-destructive/40",
+        "aria-invalid:border-destructive",
+        "transition-[color,box-shadow]",
+        "overflow-hidden",
+        "[a&]:hover:bg-secondary/90",
+        "flex",
+        "items-center",
+        "gap-2",
+        "bg-gray-200",
+        "text-gray-900",
+        "border",
+        "border-gray-300",
+        "hover:bg-gray-300",
+        "dark:bg-gray-800",
+        "dark:text-white",
+        "dark:border-gray-600",
+        "dark:hover:bg-gray-700",
+        "px-3",
+        "py-2"
+      ]
+    },
+    "html": "<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Express logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg\" style=\"color: transparent\" width=\"16\"/><span>Express</span></span>"
+  },
+  {
+    "tag": "span",
+    "text": "Express",
+    "attributes": {},
+    "html": "<span>Express</span>"
+  },
+  {
+    "tag": "span",
+    "text": "Node.js",
+    "attributes": {
+      "data-slot": "badge",
+      "class": [
+        "justify-center",
+        "rounded-md",
+        "text-xs",
+        "font-medium",
+        "w-fit",
+        "whitespace-nowrap",
+        "shrink-0",
+        "[&>svg]:size-3",
+        "[&>svg]:pointer-events-none",
+        "focus-visible:border-ring",
+        "focus-visible:ring-ring/50",
+        "focus-visible:ring-[3px]",
+        "aria-invalid:ring-destructive/20",
+        "dark:aria-invalid:ring-destructive/40",
+        "aria-invalid:border-destructive",
+        "transition-[color,box-shadow]",
+        "overflow-hidden",
+        "[a&]:hover:bg-secondary/90",
+        "flex",
+        "items-center",
+        "gap-2",
+        "bg-gray-200",
+        "text-gray-900",
+        "border",
+        "border-gray-300",
+        "hover:bg-gray-300",
+        "dark:bg-gray-800",
+        "dark:text-white",
+        "dark:border-gray-600",
+        "dark:hover:bg-gray-700",
+        "px-3",
+        "py-2"
+      ]
+    },
+    "html": "<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Node.js logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Node.js</span></span>"
+  },
+  {
+    "tag": "span",
+    "text": "Node.js",
+    "attributes": {},
+    "html": "<span>Node.js</span>"
+  },
+  {
+    "tag": "span",
+    "text": "Next.js",
+    "attributes": {
+      "data-slot": "badge",
+      "class": [
+        "justify-center",
+        "rounded-md",
+        "text-xs",
+        "font-medium",
+        "w-fit",
+        "whitespace-nowrap",
+        "shrink-0",
+        "[&>svg]:size-3",
+        "[&>svg]:pointer-events-none",
+        "focus-visible:border-ring",
+        "focus-visible:ring-ring/50",
+        "focus-visible:ring-[3px]",
+        "aria-invalid:ring-destructive/20",
+        "dark:aria-invalid:ring-destructive/40",
+        "aria-invalid:border-destructive",
+        "transition-[color,box-shadow]",
+        "overflow-hidden",
+        "[a&]:hover:bg-secondary/90",
+        "flex",
+        "items-center",
+        "gap-2",
+        "bg-gray-200",
+        "text-gray-900",
+        "border",
+        "border-gray-300",
+        "hover:bg-gray-300",
+        "dark:bg-gray-800",
+        "dark:text-white",
+        "dark:border-gray-600",
+        "dark:hover:bg-gray-700",
+        "px-3",
+        "py-2"
+      ]
+    },
+    "html": "<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Next.js logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Next.js</span></span>"
+  },
+  {
+    "tag": "span",
+    "text": "Next.js",
+    "attributes": {},
+    "html": "<span>Next.js</span>"
+  },
+  {
+    "tag": "span",
+    "text": "React",
+    "attributes": {
+      "data-slot": "badge",
+      "class": [
+        "justify-center",
+        "rounded-md",
+        "text-xs",
+        "font-medium",
+        "w-fit",
+        "whitespace-nowrap",
+        "shrink-0",
+        "[&>svg]:size-3",
+        "[&>svg]:pointer-events-none",
+        "focus-visible:border-ring",
+        "focus-visible:ring-ring/50",
+        "focus-visible:ring-[3px]",
+        "aria-invalid:ring-destructive/20",
+        "dark:aria-invalid:ring-destructive/40",
+        "aria-invalid:border-destructive",
+        "transition-[color,box-shadow]",
+        "overflow-hidden",
+        "[a&]:hover:bg-secondary/90",
+        "flex",
+        "items-center",
+        "gap-2",
+        "bg-gray-200",
+        "text-gray-900",
+        "border",
+        "border-gray-300",
+        "hover:bg-gray-300",
+        "dark:bg-gray-800",
+        "dark:text-white",
+        "dark:border-gray-600",
+        "dark:hover:bg-gray-700",
+        "px-3",
+        "py-2"
+      ]
+    },
+    "html": "<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"React logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg\" style=\"color: transparent\" width=\"16\"/><span>React</span></span>"
+  },
+  {
+    "tag": "span",
+    "text": "React",
+    "attributes": {},
+    "html": "<span>React</span>"
+  },
+  {
+    "tag": "span",
+    "text": "TypeScript",
+    "attributes": {
+      "data-slot": "badge",
+      "class": [
+        "justify-center",
+        "rounded-md",
+        "text-xs",
+        "font-medium",
+        "w-fit",
+        "whitespace-nowrap",
+        "shrink-0",
+        "[&>svg]:size-3",
+        "[&>svg]:pointer-events-none",
+        "focus-visible:border-ring",
+        "focus-visible:ring-ring/50",
+        "focus-visible:ring-[3px]",
+        "aria-invalid:ring-destructive/20",
+        "dark:aria-invalid:ring-destructive/40",
+        "aria-invalid:border-destructive",
+        "transition-[color,box-shadow]",
+        "overflow-hidden",
+        "[a&]:hover:bg-secondary/90",
+        "flex",
+        "items-center",
+        "gap-2",
+        "bg-gray-200",
+        "text-gray-900",
+        "border",
+        "border-gray-300",
+        "hover:bg-gray-300",
+        "dark:bg-gray-800",
+        "dark:text-white",
+        "dark:border-gray-600",
+        "dark:hover:bg-gray-700",
+        "px-3",
+        "py-2"
+      ]
+    },
+    "html": "<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"TypeScript logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg\" style=\"color: transparent\" width=\"16\"/><span>TypeScript</span></span>"
+  },
+  {
+    "tag": "span",
+    "text": "TypeScript",
+    "attributes": {},
+    "html": "<span>TypeScript</span>"
+  },
+  {
+    "tag": "span",
+    "text": "AWS",
+    "attributes": {
+      "data-slot": "badge",
+      "class": [
+        "justify-center",
+        "rounded-md",
+        "text-xs",
+        "font-medium",
+        "w-fit",
+        "whitespace-nowrap",
+        "shrink-0",
+        "[&>svg]:size-3",
+        "[&>svg]:pointer-events-none",
+        "focus-visible:border-ring",
+        "focus-visible:ring-ring/50",
+        "focus-visible:ring-[3px]",
+        "aria-invalid:ring-destructive/20",
+        "dark:aria-invalid:ring-destructive/40",
+        "aria-invalid:border-destructive",
+        "transition-[color,box-shadow]",
+        "overflow-hidden",
+        "[a&]:hover:bg-secondary/90",
+        "flex",
+        "items-center",
+        "gap-2",
+        "bg-gray-200",
+        "text-gray-900",
+        "border",
+        "border-gray-300",
+        "hover:bg-gray-300",
+        "dark:bg-gray-800",
+        "dark:text-white",
+        "dark:border-gray-600",
+        "dark:hover:bg-gray-700",
+        "px-3",
+        "py-2"
+      ]
+    },
+    "html": "<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"AWS logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg\" style=\"color: transparent\" width=\"16\"/><span>AWS</span></span>"
+  },
+  {
+    "tag": "span",
+    "text": "AWS",
+    "attributes": {},
+    "html": "<span>AWS</span>"
+  },
+  {
+    "tag": "span",
+    "text": "Docker",
+    "attributes": {
+      "data-slot": "badge",
+      "class": [
+        "justify-center",
+        "rounded-md",
+        "text-xs",
+        "font-medium",
+        "w-fit",
+        "whitespace-nowrap",
+        "shrink-0",
+        "[&>svg]:size-3",
+        "[&>svg]:pointer-events-none",
+        "focus-visible:border-ring",
+        "focus-visible:ring-ring/50",
+        "focus-visible:ring-[3px]",
+        "aria-invalid:ring-destructive/20",
+        "dark:aria-invalid:ring-destructive/40",
+        "aria-invalid:border-destructive",
+        "transition-[color,box-shadow]",
+        "overflow-hidden",
+        "[a&]:hover:bg-secondary/90",
+        "flex",
+        "items-center",
+        "gap-2",
+        "bg-gray-200",
+        "text-gray-900",
+        "border",
+        "border-gray-300",
+        "hover:bg-gray-300",
+        "dark:bg-gray-800",
+        "dark:text-white",
+        "dark:border-gray-600",
+        "dark:hover:bg-gray-700",
+        "px-3",
+        "py-2"
+      ]
+    },
+    "html": "<span class=\"justify-center rounded-md text-xs font-medium w-fit whitespace-nowrap shrink-0 [&amp;&gt;svg]:size-3 [&amp;&gt;svg]:pointer-events-none focus-visible:border-ring focus-visible:ring-ring/50 focus-visible:ring-[3px] aria-invalid:ring-destructive/20 dark:aria-invalid:ring-destructive/40 aria-invalid:border-destructive transition-[color,box-shadow] overflow-hidden [a&amp;]:hover:bg-secondary/90 flex items-center gap-2 bg-gray-200 text-gray-900 border border-gray-300 hover:bg-gray-300 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 px-3 py-2\" data-slot=\"badge\"><img alt=\"Docker logo\" class=\"object-contain dark:invert\" data-nimg=\"1\" decoding=\"async\" height=\"16\" loading=\"lazy\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg\" style=\"color: transparent\" width=\"16\"/><span>Docker</span></span>"
+  },
+  {
+    "tag": "span",
+    "text": "Docker",
+    "attributes": {},
+    "html": "<span>Docker</span>"
+  },
+  {
+    "tag": "div",
+    "text": "Get in touch→",
+    "attributes": {
+      "class": [
+        "flex",
+        "flex-col",
+        "items-center",
+        "justify-between",
+        "space-x-10"
+      ]
+    },
+    "html": "<div class=\"flex flex-col items-center justify-between space-x-10\">\n<div class=\"flex gap-4\">\n<p class=\"text-xl font-semibold flex items-center gap-2\">\n<span>Get in touch</span><span class=\"inline-block animate-bounce\">→</span>\n</p>\n<div class=\"mb-10\">\n<div class=\"relative\">\n<div class=\"supports-backdrop-blur:bg-white/10 supports-backdrop-blur:dark:bg-black/10 mx-auto mt-8 flex h-[58px] w-max justify-center gap-2 rounded-2xl border p-2 backdrop-blur-md items-center\">\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://x.com/Hemanth_1321\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M22.46 6c-.77.35-1.6.58-2.46.69a4.3 4.3 0 0 0 1.89-2.37 8.58 8.58 0 0 1-2.73 1.05A4.27 4.27 0 0 0 16.1 4c-2.38 0-4.3 1.94-4.3 4.34 0 .34.04.68.1 1A12.1 12.1 0 0 1 3 5.1a4.35 4.35 0 0 0 1.33 5.78 4.26 4.26 0 0 1-1.95-.54v.06c0 2.03 1.44 3.72 3.34 4.1a4.28 4.28 0 0 1-1.94.07 4.29 4.29 0 0 0 4 2.97A8.58 8.58 0 0 1 2 19.53 12.1 12.1 0 0 0 8.29 21c7.55 0 11.68-6.34 11.68-11.83 0-.18 0-.36-.01-.53A8.38 8.38 0 0 0 22.46 6Z\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://www.linkedin.com/in/hemanth-kumar-m-0496ba247\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.98 3.5a2.49 2.49 0 1 1 0 4.98 2.49 2.49 0 0 1 0-4.98ZM3 8.75h3.96v12.5H3V8.75ZM9.25 8.75h3.8v1.71h.06c.53-1 1.82-2.06 3.75-2.06 4 0 4.74 2.63 4.74 6.04v6.81h-3.96v-6.03c0-1.44-.03-3.3-2.01-3.3-2.01 0-2.32 1.57-2.32 3.19v6.14h-3.96V8.75Z\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://github.com/hemanth-1321\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" viewbox=\"0 0 438.549 438.549\">\n<path d=\"M409.132 114.573c-19.608-33.596-46.205-60.194-79.798-79.8-33.598-19.607-70.277-29.408-110.063-29.408-39.781 0-76.472 9.804-110.063 29.408-33.596 19.605-60.192 46.204-79.8 79.8C9.803 148.168 0 184.854 0 224.63c0 47.78 13.94 90.745 41.827 128.906 27.884 38.164 63.906 64.572 108.063 79.227 5.14.954 8.945.283 11.419-1.996 2.475-2.282 3.711-5.14 3.711-8.562 0-.571-.049-5.708-.144-15.417a2549.81 2549.81 0 01-.144-25.406l-6.567 1.136c-4.187.767-9.469 1.092-15.846 1-6.374-.089-12.991-.757-19.842-1.999-6.854-1.231-13.229-4.086-19.13-8.559-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-.951-2.568-2.098-3.711-3.429-1.142-1.331-1.997-2.663-2.568-3.997-.572-1.335-.098-2.43 1.427-3.289 1.525-.859 4.281-1.276 8.28-1.276l5.708.853c3.807.763 8.516 3.042 14.133 6.851 5.614 3.806 10.229 8.754 13.846 14.842 4.38 7.806 9.657 13.754 15.846 17.847 6.184 4.093 12.419 6.136 18.699 6.136 6.28 0 11.704-.476 16.274-1.423 4.565-.952 8.848-2.383 12.847-4.285 1.713-12.758 6.377-22.559 13.988-29.41-10.848-1.14-20.601-2.857-29.264-5.14-8.658-2.286-17.605-5.996-26.835-11.14-9.235-5.137-16.896-11.516-22.985-19.126-6.09-7.614-11.088-17.61-14.987-29.979-3.901-12.374-5.852-26.648-5.852-42.826 0-23.035 7.52-42.637 22.557-58.817-7.044-17.318-6.379-36.732 1.997-58.24 5.52-1.715 13.706-.428 24.554 3.853 10.85 4.283 18.794 7.952 23.84 10.994 5.046 3.041 9.089 5.618 12.135 7.708 17.705-4.947 35.976-7.421 54.818-7.421s37.117 2.474 54.823 7.421l10.849-6.849c7.419-4.57 16.18-8.758 26.262-12.565 10.088-3.805 17.802-4.853 23.134-3.138 8.562 21.509 9.325 40.922 2.279 58.24 15.036 16.18 22.559 35.787 22.559 58.817 0 16.178-1.958 30.497-5.853 42.966-3.9 12.471-8.941 22.457-15.125 29.979-6.191 7.521-13.901 13.85-23.131 18.986-9.232 5.14-18.182 8.85-26.84 11.136-8.662 2.286-18.415 4.004-29.263 5.146 9.894 8.562 14.842 22.077 14.842 40.539v60.237c0 3.422 1.19 6.279 3.572 8.562 2.379 2.279 6.136 2.95 11.276 1.995 44.163-14.653 80.185-41.062 108.068-79.226 27.88-38.161 41.825-81.126 41.825-128.906-.01-39.771-9.818-76.454-29.414-110.049z\" fill=\"currentColor\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"mailto:hemanth02135@gmail.com\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5A1.5 1.5 0 0 1 3 3h18a1.5 1.5 0 0 1 1.5 1.5v15A1.5 1.5 0 0 1 21 21H3a1.5 1.5 0 0 1-1.5-1.5v-15Zm1.93.75 8.57 6.112a.75.75 0 0 0 .9 0l8.57-6.112H3.43ZM21 6.94l-8.35 5.955a2.25 2.25 0 0 1-2.3 0L2 6.94v12.56h19V6.94Z\"></path></svg></a>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "tag": "div",
+    "text": "Get in touch→",
+    "attributes": {
+      "class": [
+        "flex",
+        "gap-4"
+      ]
+    },
+    "html": "<div class=\"flex gap-4\">\n<p class=\"text-xl font-semibold flex items-center gap-2\">\n<span>Get in touch</span><span class=\"inline-block animate-bounce\">→</span>\n</p>\n<div class=\"mb-10\">\n<div class=\"relative\">\n<div class=\"supports-backdrop-blur:bg-white/10 supports-backdrop-blur:dark:bg-black/10 mx-auto mt-8 flex h-[58px] w-max justify-center gap-2 rounded-2xl border p-2 backdrop-blur-md items-center\">\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://x.com/Hemanth_1321\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M22.46 6c-.77.35-1.6.58-2.46.69a4.3 4.3 0 0 0 1.89-2.37 8.58 8.58 0 0 1-2.73 1.05A4.27 4.27 0 0 0 16.1 4c-2.38 0-4.3 1.94-4.3 4.34 0 .34.04.68.1 1A12.1 12.1 0 0 1 3 5.1a4.35 4.35 0 0 0 1.33 5.78 4.26 4.26 0 0 1-1.95-.54v.06c0 2.03 1.44 3.72 3.34 4.1a4.28 4.28 0 0 1-1.94.07 4.29 4.29 0 0 0 4 2.97A8.58 8.58 0 0 1 2 19.53 12.1 12.1 0 0 0 8.29 21c7.55 0 11.68-6.34 11.68-11.83 0-.18 0-.36-.01-.53A8.38 8.38 0 0 0 22.46 6Z\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://www.linkedin.com/in/hemanth-kumar-m-0496ba247\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.98 3.5a2.49 2.49 0 1 1 0 4.98 2.49 2.49 0 0 1 0-4.98ZM3 8.75h3.96v12.5H3V8.75ZM9.25 8.75h3.8v1.71h.06c.53-1 1.82-2.06 3.75-2.06 4 0 4.74 2.63 4.74 6.04v6.81h-3.96v-6.03c0-1.44-.03-3.3-2.01-3.3-2.01 0-2.32 1.57-2.32 3.19v6.14h-3.96V8.75Z\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"https://github.com/hemanth-1321\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" viewbox=\"0 0 438.549 438.549\">\n<path d=\"M409.132 114.573c-19.608-33.596-46.205-60.194-79.798-79.8-33.598-19.607-70.277-29.408-110.063-29.408-39.781 0-76.472 9.804-110.063 29.408-33.596 19.605-60.192 46.204-79.8 79.8C9.803 148.168 0 184.854 0 224.63c0 47.78 13.94 90.745 41.827 128.906 27.884 38.164 63.906 64.572 108.063 79.227 5.14.954 8.945.283 11.419-1.996 2.475-2.282 3.711-5.14 3.711-8.562 0-.571-.049-5.708-.144-15.417a2549.81 2549.81 0 01-.144-25.406l-6.567 1.136c-4.187.767-9.469 1.092-15.846 1-6.374-.089-12.991-.757-19.842-1.999-6.854-1.231-13.229-4.086-19.13-8.559-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903-4.374-4.899-9.233-8.992-14.559-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332-.951-2.568-2.098-3.711-3.429-1.142-1.331-1.997-2.663-2.568-3.997-.572-1.335-.098-2.43 1.427-3.289 1.525-.859 4.281-1.276 8.28-1.276l5.708.853c3.807.763 8.516 3.042 14.133 6.851 5.614 3.806 10.229 8.754 13.846 14.842 4.38 7.806 9.657 13.754 15.846 17.847 6.184 4.093 12.419 6.136 18.699 6.136 6.28 0 11.704-.476 16.274-1.423 4.565-.952 8.848-2.383 12.847-4.285 1.713-12.758 6.377-22.559 13.988-29.41-10.848-1.14-20.601-2.857-29.264-5.14-8.658-2.286-17.605-5.996-26.835-11.14-9.235-5.137-16.896-11.516-22.985-19.126-6.09-7.614-11.088-17.61-14.987-29.979-3.901-12.374-5.852-26.648-5.852-42.826 0-23.035 7.52-42.637 22.557-58.817-7.044-17.318-6.379-36.732 1.997-58.24 5.52-1.715 13.706-.428 24.554 3.853 10.85 4.283 18.794 7.952 23.84 10.994 5.046 3.041 9.089 5.618 12.135 7.708 17.705-4.947 35.976-7.421 54.818-7.421s37.117 2.474 54.823 7.421l10.849-6.849c7.419-4.57 16.18-8.758 26.262-12.565 10.088-3.805 17.802-4.853 23.134-3.138 8.562 21.509 9.325 40.922 2.279 58.24 15.036 16.18 22.559 35.787 22.559 58.817 0 16.178-1.958 30.497-5.853 42.966-3.9 12.471-8.941 22.457-15.125 29.979-6.191 7.521-13.901 13.85-23.131 18.986-9.232 5.14-18.182 8.85-26.84 11.136-8.662 2.286-18.415 4.004-29.263 5.146 9.894 8.562 14.842 22.077 14.842 40.539v60.237c0 3.422 1.19 6.279 3.572 8.562 2.379 2.279 6.136 2.95 11.276 1.995 44.163-14.653 80.185-41.062 108.068-79.226 27.88-38.161 41.825-81.126 41.825-128.906-.01-39.771-9.818-76.454-29.414-110.049z\" fill=\"currentColor\"></path></svg></a>\n</div>\n<div class=\"flex aspect-square cursor-pointer items-center justify-center rounded-full\" style=\"padding: 8px; width: 40px; height: 40px\">\n<a href=\"mailto:hemanth02135@gmail.com\" rel=\"noopener noreferrer\" target=\"_blank\"><svg class=\"size-6\" fill=\"currentColor\" viewbox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M1.5 4.5A1.5 1.5 0 0 1 3 3h18a1.5 1.5 0 0 1 1.5 1.5v15A1.5 1.5 0 0 1 21 21H3a1.5 1.5 0 0 1-1.5-1.5v-15Zm1.93.75 8.57 6.112a.75.75 0 0 0 .9 0l8.57-6.112H3.43ZM21 6.94l-8.35 5.955a2.25 2.25 0 0 1-2.3 0L2 6.94v12.56h19V6.94Z\"></path></svg></a>\n</div>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "tag": "p",
+    "text": "Get in touch→",
+    "attributes": {
+      "class": [
+        "text-xl",
+        "font-semibold",
+        "flex",
+        "items-center",
+        "gap-2"
+      ]
+    },
+    "html": "<p class=\"text-xl font-semibold flex items-center gap-2\">\n<span>Get in touch</span><span class=\"inline-block animate-bounce\">→</span>\n</p>"
+  },
+  {
+    "tag": "span",
+    "text": "Get in touch",
+    "attributes": {},
+    "html": "<span>Get in touch</span>"
+  },
+  {
+    "tag": "span",
+    "text": "→",
+    "attributes": {
+      "class": [
+        "inline-block",
+        "animate-bounce"
+      ]
+    },
+    "html": "<span class=\"inline-block animate-bounce\">→</span>"
+  },
+  {
+    "tag": "div",
+    "text": "ProjectsMockySSHPhotoGenAiManimator",
+    "attributes": {
+      "class": [
+        "w-full"
+      ]
+    },
+    "html": "<div class=\"w-full\">\n<h3 class=\"text-2xl font-semibold tracking-tight mb-6\">Projects</h3>\n<div class=\"flex flex-col divide-y divide-border w-full\">\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Mocky</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">SSH</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">PhotoGenAi</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Manimator</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n</div>\n</div>"
+  },
+  {
+    "tag": "h3",
+    "text": "Projects",
+    "attributes": {
+      "class": [
+        "text-2xl",
+        "font-semibold",
+        "tracking-tight",
+        "mb-6"
+      ]
+    },
+    "html": "<h3 class=\"text-2xl font-semibold tracking-tight mb-6\">Projects</h3>"
+  },
+  {
+    "tag": "div",
+    "text": "MockySSHPhotoGenAiManimator",
+    "attributes": {
+      "class": [
+        "flex",
+        "flex-col",
+        "divide-y",
+        "divide-border",
+        "w-full"
+      ]
+    },
+    "html": "<div class=\"flex flex-col divide-y divide-border w-full\">\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Mocky</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">SSH</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">PhotoGenAi</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Manimator</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>\n</div>"
+  },
+  {
+    "tag": "div",
+    "text": "Mocky",
+    "attributes": {
+      "class": [
+        "cursor-pointer",
+        "group",
+        "flex",
+        "items-center",
+        "justify-between",
+        "px-2",
+        "py-4",
+        "hover:bg-muted/30",
+        "transition-colors"
+      ]
+    },
+    "html": "<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Mocky</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>"
+  },
+  {
+    "tag": "span",
+    "text": "Mocky",
+    "attributes": {
+      "class": [
+        "text-lg",
+        "font-medium",
+        "group-hover:underline",
+        "underline-offset-4"
+      ]
+    },
+    "html": "<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Mocky</span>"
+  },
+  {
+    "tag": "div",
+    "text": "SSH",
+    "attributes": {
+      "class": [
+        "cursor-pointer",
+        "group",
+        "flex",
+        "items-center",
+        "justify-between",
+        "px-2",
+        "py-4",
+        "hover:bg-muted/30",
+        "transition-colors"
+      ]
+    },
+    "html": "<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">SSH</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>"
+  },
+  {
+    "tag": "span",
+    "text": "SSH",
+    "attributes": {
+      "class": [
+        "text-lg",
+        "font-medium",
+        "group-hover:underline",
+        "underline-offset-4"
+      ]
+    },
+    "html": "<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">SSH</span>"
+  },
+  {
+    "tag": "div",
+    "text": "PhotoGenAi",
+    "attributes": {
+      "class": [
+        "cursor-pointer",
+        "group",
+        "flex",
+        "items-center",
+        "justify-between",
+        "px-2",
+        "py-4",
+        "hover:bg-muted/30",
+        "transition-colors"
+      ]
+    },
+    "html": "<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">PhotoGenAi</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>"
+  },
+  {
+    "tag": "span",
+    "text": "PhotoGenAi",
+    "attributes": {
+      "class": [
+        "text-lg",
+        "font-medium",
+        "group-hover:underline",
+        "underline-offset-4"
+      ]
+    },
+    "html": "<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">PhotoGenAi</span>"
+  },
+  {
+    "tag": "div",
+    "text": "Manimator",
+    "attributes": {
+      "class": [
+        "cursor-pointer",
+        "group",
+        "flex",
+        "items-center",
+        "justify-between",
+        "px-2",
+        "py-4",
+        "hover:bg-muted/30",
+        "transition-colors"
+      ]
+    },
+    "html": "<div class=\"cursor-pointer group flex items-center justify-between px-2 py-4 hover:bg-muted/30 transition-colors\">\n<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Manimator</span><svg aria-hidden=\"true\" class=\"lucide lucide-arrow-right w-4 h-4 text-muted-foreground group-hover:translate-x-1 transition-transform duration-200\" fill=\"none\" height=\"24\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" viewbox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 12h14\"></path>\n<path d=\"m12 5 7 7-7 7\"></path>\n</svg>\n</div>"
+  },
+  {
+    "tag": "span",
+    "text": "Manimator",
+    "attributes": {
+      "class": [
+        "text-lg",
+        "font-medium",
+        "group-hover:underline",
+        "underline-offset-4"
+      ]
+    },
+    "html": "<span class=\"text-lg font-medium group-hover:underline underline-offset-4\">Manimator</span>"
+  }
+]
